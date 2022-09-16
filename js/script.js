@@ -78,6 +78,9 @@ function main() {
       document.querySelector(".todos").className = `todos ${id}`
 
 
+
+
+      
     }
   })
   btnFilter.addEventListener('click', () => {
